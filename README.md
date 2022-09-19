@@ -1,7 +1,7 @@
-- 👋 Hi, I’m João
-- 👀 I’m interested in programação
-- 🌱 I’m currently learning programação
-- 💞️ I’m looking to collaborate on paginas web
+- 👋 Oi meu nome é João
+- 👀 Estou interessado programação
+- 🌱 atualmente estou aprendendo programação
+- 💞️ procuro colaborar paginas web
 - 📫 Meu e-mail de contato é joao.lopes.lima@escola.pr.gov.br
 
 <!---
